@@ -1,0 +1,45 @@
+{
+    "metadata": {
+        "filename": "IF2_Pantallas_Audio.xlsx",
+        "sheet_count": 1,
+        "sheet_name": "05 Electronicos"
+    },
+    "product_categories": {
+        "PANTALLAS": {
+            "characteristics": {
+                "AUDIO": {
+                    "AUDIO_TYPE": "TIPO AUDIO",
+                    "COLOR": "COLOR",
+                    "POWER": "POTENCIA",
+                    "RESOLUTION": "RESOLUCION",
+                    "SCREEN_SIZE": "TAMAÑO DE PANTALLA"
+                },
+                "GENERAL": {
+                    "BRAND": "MARCA DEL PRODUCTO",
+                    "COMMERCIAL_DESCRIPTION": "DESCRIPCIÓN COMERCIAL",
+                    "GENERIC_NAME": "NOMBRE GENÉRICO",
+                    "ITEM_NUMBER": "ITEM NUMBER",
+                    "MODEL": "MODELO | ESTILO | TIPO",
+                    "SUB_BRAND": "SUBMARCA",
+                    "UPC": "UPC"
+                },
+                "PACKAGING": {
+                    "PACKAGE_CONTENT": "CONTENIDO DEL EMPAQUE",
+                    "PACKAGE_DIMENSIONS": {
+                        "DEPTH": "PROFUNDIDAD (DM)",
+                        "HEIGHT": "ALTO (DM)",
+                        "WEIGHT": "PESO (KG)",
+                        "WIDTH": "ANCHO (DM)"
+                    },
+                    "PRODUCT_DIMENSIONS": {
+                        "DEPTH": "PROFUNDIDAD (CM)",
+                        "HEIGHT": "ALTO (CM)",
+                        "WEIGHT": "PESO (KG)",
+                        "WIDTH": "ANCHO (CM)"
+                    }
+                }
+            },
+            "priority": 1
+        }
+    }
+}

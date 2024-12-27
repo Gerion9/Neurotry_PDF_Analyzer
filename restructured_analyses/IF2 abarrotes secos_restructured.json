@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "IF2 abarrotes secos.xlsx",
+        "last_updated": "2024-12-27",
+        "sheet_count": 3
+    },
+    "product_categories": [
+        {
+            "category": "Food",
+            "guidelines": [
+                {
+                    "name": "Mandatory Information",
+                    "priority": 1,
+                    "properties": [
+                        "UPC",
+                        "ITEM NUMBER",
+                        "MARCA DEL PRODUCTO",
+                        "SUBMARCA",
+                        "Título de Producto\nNombre genérico + Marca + Submarca + Modelo/Estilo/ Tipo "
+                    ]
+                },
+                {
+                    "name": "Product Description",
+                    "priority": 2,
+                    "properties": [
+                        "DESCRIPCION COMERCIAL DEL PRODUCTO",
+                        "TIPO DE ALIMENTO",
+                        "BENEFICIOS PARA EL SOCIO\n(Enlistar)"
+                    ]
+                },
+                {
+                    "name": "Nutritional Information",
+                    "priority": 3,
+                    "properties": [
+                        "CONTENIDO NETO",
+                        "INGREDIENTES",
+                        "CONTENIDO ENERGETICO",
+                        "TAMAÑO POR PORCION",
+                        "PORCIONES POR ENVASE",
+                        "ENERGIA POR ENVASE",
+                        "ENERGIA (KCAL)",
+                        "GRASA TOTAL",
+                        "GRASA SATURADA",
+                        "SODIO",
+                        "AZUCARES TOTALES",
+                        "ALERGENOS"
+                    ]
+                },
+                {
+                    "name": "Product Dimensions",
+                    "priority": 4,
+                    "properties": [
+                        "ALTO (CM)",
+                        "ANCHO (CM)",
+                        "FONDO (CM)",
+                        "PESO (KG)"
+                    ]
+                }
+            ]
+        }
+    ],
+    "sample_data": [
+        {
+            "ALERGENOS": "allergens",
+            "ALTO (CM)": "high",
+            "ANCHO (CM)": "long",
+            "AZUCARES TOTALES": "total sugars",
+            "BENEFICIOS PARA EL SOCIO\n(Enlistar)": "Benefits for the partner",
+            "CONTENIDO ENERGETICO": "energetic content",
+            "CONTENIDO NETO": "Net content",
+            "DESCRIPCION COMERCIAL DEL PRODUCTO": "Description ",
+            "ENERGIA (KCAL)": "energy (kcal)",
+            "ENERGIA POR ENVASE": "energy per container",
+            "FONDO (CM)": "background",
+            "GRASA SATURADA": "saturated fat",
+            "GRASA TOTAL": "total fat",
+            "INGREDIENTES": "Ingredients",
+            "ITEM NUMBER": "item number",
+            "MARCA DEL PRODUCTO": "Brand",
+            "PESO (KG)": "weight",
+            "PORCIONES POR ENVASE": "potions per container",
+            "SODIO": "sodium",
+            "SUBMARCA": "Sub brand",
+            "TAMAÑO POR PORCION": "size per portion",
+            "TIPO DE ALIMENTO": "Type of food",
+            "Título de Producto\nNombre genérico + Marca + Submarca + Modelo/Estilo/ Tipo ": "Generic name+ Brand+ Sub brand+ model/ style/ type",
+            "UPC": "gtin"
+        }
+    ]
+}
